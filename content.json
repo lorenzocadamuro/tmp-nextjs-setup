@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "/",
+    "type": "homepage",
+    "title": "Homepage"
+  },
+  {
+    "slug": "/blog",
+    "type": "blog",
+    "title": "Blog"
+  },
+  {
+    "slug": "/blog/post-1",
+    "type": "post",
+    "title": "Post 1"
+  },
+  {
+    "slug": "/blog/post-2",
+    "type": "post",
+    "title": "Post 2"
+  },
+  {
+    "slug": "/blog/post-3",
+    "type": "post",
+    "title": "Post 3"
+  }
+]
